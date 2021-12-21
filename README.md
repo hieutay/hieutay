@@ -2,5 +2,5 @@
 ```js
 document.write("Hello World!");
 ```
-<img src="https://user-images.githubusercontent.com/95167340/146804165-b5292e8b-425d-4b50-95d8-745c5d6fe26f.png" alt="drawing" width="512"/>
+<img src="![g](https://user-images.githubusercontent.com/95167340/146971495-2e594dd9-b328-40c0-bbad-6346e84075b2.jpg)" alt="drawing" width="512"/>
 
